@@ -3,7 +3,7 @@
 ## Descripción 
 ## Este repositorio documenta el desarrollo de los ejercicios prácticos de las semanas 10, 11 y 12. Incluye la creación de modelos de datos, ejecución de consultas estructuradas (NewSQL) e implementación de bases de datos orientadas a documentos (NoSQL) para ecosistemas Big Data. 
 
-## 🛠️ Tecnologías y Herramientas 
+## Tecnologías y Herramientas 
 * **NewSQL:** Oracle SQL Developer / SQL 
 * **NoSQL:** MongoDB Compass / JSON-BSON 
 * **Control de Versiones:** Git &amp; GitHub 
