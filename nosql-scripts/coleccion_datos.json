@@ -1,0 +1,36 @@
+[ 
+  { 
+    "cliente": "Carlos Mendoza", 
+    "pais": "Colombia", 
+    "categoria_interes": "Infraestructura", 
+    "dispositivo": "Mobile", 
+    "compras": [ 
+      { "producto": "Servidor Rack 2U", "monto": 4500, "fecha": "2024-10-10" }, 
+      { "producto": "Disco SSD NVMe 4TB", "monto": 350, "fecha": "2024-10-12" } 
+    ], 
+    "activo": true, 
+    "nivel_prioridad": "ALTA" 
+  }, 
+  { 
+    "cliente": "Ana María Gómez", 
+    "pais": "México", 
+    "categoria_interes": "Software", 
+    "dispositivo": "Desktop", 
+    "compras": [ 
+      { "producto": "Licencia Base de Datos NewSQL", "monto": 6000, "fecha": "2024-10-11" } 
+    ], 
+    "activo": true, 
+    "nivel_prioridad": "MEDIA" 
+  }, 
+  { 
+    "cliente": "John Smith", 
+    "pais": "Estados Unidos", 
+    "categoria_interes": "Infraestructura", 
+    "dispositivo": "Desktop", 
+    "compras": [ 
+      { "producto": "Servidor Rack 2U", "monto": 4500, "fecha": "2024-10-13" } 
+    ], 
+    "activo": false, 
+    "nivel_prioridad": "BAJA" 
+  } 
+]
