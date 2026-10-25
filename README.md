@@ -10,7 +10,7 @@
 
 ## Estructura del Repositorio
 
-# ├── README.md 
+├── README.md 
 # Documentación principal 
 ├── sql-scripts/ 
 # Consultas DDL, DML y procedimientos NewSQL 
