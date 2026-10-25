@@ -11,7 +11,8 @@
 ## 📁 Estructura del Repositorio
 
 # ├── README.md 
-# Documentación principal ├── sql-scripts/ # Consultas DDL, DML y procedimientos NewSQL ├── nosql-scripts/ 
+# Documentación principal ├── sql-scripts/ 
+# Consultas DDL, DML y procedimientos NewSQL ├── nosql-scripts/ 
 # Consultas, agregaciones y documentos NoSQL └── evidencias/
 
 ## 👤 Datos del Estudiante 
